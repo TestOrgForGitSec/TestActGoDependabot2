@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/adrg/xdg v0.4.0
 	github.com/andreaskoch/go-fswatch v1.0.0
-	github.com/creack/pty v1.1.18
+	github.com/creack/pty v1.1.21
 	github.com/docker/cli v23.0.3+incompatible
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/docker/docker v23.0.3+incompatible
